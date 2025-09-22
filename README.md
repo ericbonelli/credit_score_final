@@ -10,9 +10,7 @@ O fluxo cobre desde o **pré-processamento dos dados** (missing, outliers, WOE/I
 ```
 .
 ├── notebooks/
-│   ├── Mod37_Regressao_Logistica_II.ipynb   # exercícios de referência
-│   ├── Mod38_Pipeline.ipynb                 # construção do pipeline
-│   └── Mod38_PyCaret.ipynb                  # experimentos com PyCaret
+│   ├── Mod38_Projeto final_credit_score.ipynb, contendo Regressao_Logistica_II, construção do pipeline e experimentos com PyCaret
 ├── model_final.pkl                          # modelo treinado e salvo
 ├── app_scoring_web.py                       # app Streamlit para escoragem
 ├── requirements.txt                         # dependências mínimas
