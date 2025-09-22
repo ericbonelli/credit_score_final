@@ -1,0 +1,4 @@
+sexo,posse_de_veiculo,posse_de_imovel,qtd_filhos,tipo_renda,educacao,estado_civil,tipo_residencia,idade,tempo_emprego,qt_pessoas_residencia,renda,mau
+F,N,S,0,Assalariado,Superior,Solteiro,Casa,35,5,3,3200.5,0
+M,S,N,2,Empresário,Médio,Casado,Apartamento,52,15,4,12000.0,1
+F,N,N,1,Autônomo,Superior,Solteiro,Casa,28,2,2,2500.0,0
