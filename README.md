@@ -106,8 +106,8 @@ streamlit run app_scoring_web.py
 
 ### Deploy no Streamlit Cloud
 1. Subir `app_scoring_web.py` + `requirements.txt` no GitHub.
-2. Em [share.streamlit.io](https://share.streamlit.io), criar app apontando para o repositório.
-3. Fazer upload do `model_final.pkl` via sidebar no app.
+2. Em [share.streamlit.io]([https://share.streamlit.io](https://creditscorefinal-gzikusrj86vudefcdwg4be.streamlit.app/))
+4. Fazer upload do `model_final.pkl` via sidebar no app.
 
 ---
 
